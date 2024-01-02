@@ -5,26 +5,18 @@
 Clone the repository to your local environment.
 
 ```sh
-git clone https://github.com/videosdk-live/webrtc.git
+git clone https://github.com/mkshiblu/webrtc-signaling-server
 ```
 
 ### Server Setup
 
-#### Step 1: Go to  webrtc-signalling-server folder
-
-```js
-
-cd webrtc-signalling-server
-
-```
-
-#### Step 2: Install Dependency
+#### Step 1: Install Dependency
 
 ```js
 npm install
 ```
 
-#### Step 3: Run the project
+#### Step 2: Run the project
 
 ```js
 npm run start
